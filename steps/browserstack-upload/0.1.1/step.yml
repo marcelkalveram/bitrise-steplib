@@ -6,7 +6,7 @@ description: |
 website: https://github.com/marcelkalveram/bitrise-step-browserstack-upload
 source_code_url: https://github.com/marcelkalveram/bitrise-step-browserstack-upload
 support_url: https://github.com/marcelkalveram/bitrise-step-browserstack-upload/issues
-published_at: 2018-10-11T13:40:03.666125707+02:00
+published_at: 2018-10-11T17:28:47.497702499+02:00
 source:
   git: https://github.com/marcelkalveram/bitrise-step-browserstack-upload.git
   commit: 34cca1f8e0d978a1463d997ad0461ab5bd5f67f3
